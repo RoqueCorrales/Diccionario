@@ -1,0 +1,4 @@
+C:\Users\roke1\onedrive\documentos\visual studio 2015\Projects\AplicacionCRUD\Translate\bin\Debug\Translate.dll
+C:\Users\roke1\onedrive\documentos\visual studio 2015\Projects\AplicacionCRUD\Translate\bin\Debug\Translate.pdb
+C:\Users\roke1\onedrive\documentos\visual studio 2015\Projects\AplicacionCRUD\Translate\obj\Debug\Translate.dll
+C:\Users\roke1\onedrive\documentos\visual studio 2015\Projects\AplicacionCRUD\Translate\obj\Debug\Translate.pdb

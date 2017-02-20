@@ -1,0 +1,14 @@
+C:\Users\roke1\onedrive\documentos\visual studio 2015\Projects\AplicacionCRUD\Principal\obj\Debug\Principal.csprojResolveAssemblyReference.cache
+C:\Users\roke1\onedrive\documentos\visual studio 2015\Projects\AplicacionCRUD\Principal\obj\Debug\Principal.btnOK.resources
+C:\Users\roke1\onedrive\documentos\visual studio 2015\Projects\AplicacionCRUD\Principal\obj\Debug\Principal.Planilla.resources
+C:\Users\roke1\onedrive\documentos\visual studio 2015\Projects\AplicacionCRUD\Principal\obj\Debug\Principal.Properties.Resources.resources
+C:\Users\roke1\onedrive\documentos\visual studio 2015\Projects\AplicacionCRUD\Principal\obj\Debug\Principal.Registro.resources
+C:\Users\roke1\onedrive\documentos\visual studio 2015\Projects\AplicacionCRUD\Principal\obj\Debug\Principal.Reporte.resources
+C:\Users\roke1\onedrive\documentos\visual studio 2015\Projects\AplicacionCRUD\Principal\obj\Debug\Principal.csproj.GenerateResource.Cache
+C:\Users\roke1\onedrive\documentos\visual studio 2015\Projects\AplicacionCRUD\Principal\bin\Debug\Principal.exe.config
+C:\Users\roke1\onedrive\documentos\visual studio 2015\Projects\AplicacionCRUD\Principal\bin\Debug\Principal.exe
+C:\Users\roke1\onedrive\documentos\visual studio 2015\Projects\AplicacionCRUD\Principal\bin\Debug\Principal.pdb
+C:\Users\roke1\onedrive\documentos\visual studio 2015\Projects\AplicacionCRUD\Principal\bin\Debug\Translate.dll
+C:\Users\roke1\onedrive\documentos\visual studio 2015\Projects\AplicacionCRUD\Principal\bin\Debug\Translate.pdb
+C:\Users\roke1\onedrive\documentos\visual studio 2015\Projects\AplicacionCRUD\Principal\obj\Debug\Principal.exe
+C:\Users\roke1\onedrive\documentos\visual studio 2015\Projects\AplicacionCRUD\Principal\obj\Debug\Principal.pdb
